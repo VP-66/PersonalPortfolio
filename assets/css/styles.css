@@ -526,3 +526,18 @@ img {
     width: 450px;
   }
 }
+
+.homeimg{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding-bottom: 240px;
+  padding-left: 60px;
+  width: 400px;
+}
+
+.homeimg img{
+  float: right;
+  border-radius: .5rem;
+  margin-left: 0px 0px 0px 150px;
+  }
